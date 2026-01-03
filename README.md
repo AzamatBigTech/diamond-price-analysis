@@ -34,3 +34,8 @@ Python, pandas, scikit-learn, matplotlib, seaborn
 
 ## Notes
 Dataset is not included due to size/licensing limitations.
+
+## How to run
+```bash
+pip install -r requirements.txt
+python train_model.py
